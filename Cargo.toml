@@ -1,5 +1,6 @@
 [workspace]
 members = [
   "hello_world",
-  "echo"
+  "echo",
+  "shutdown"
 ]
