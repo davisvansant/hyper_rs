@@ -2,10 +2,6 @@ use hyper::*;
 use hyper::Client;
 use hyper::body::HttpBody as _;
 use tokio::io::{stdout, AsyncWriteExt as _};
-// use tokio::io::* as _;
-// use tokio::*;
-//
-// Box<dyn std::error::Error + Send + Sync>'
 
 #[tokio::main]
 async fn main() -> Result<()> {
