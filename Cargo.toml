@@ -5,5 +5,6 @@ members = [
   "shutdown",
   "client",
   "client_post",
-  "client_multiple"
+  "client_multiple",
+  "client_tls"
 ]
